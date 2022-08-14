@@ -1,2 +1,2 @@
-# my-devops-accelerate-tasks
-DevOps Accelerate Github Repository
+# mark-stale-issues
+Simple workfow for marking open issues as stale
